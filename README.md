@@ -1,2 +1,0 @@
-# HamrahBank
-Created with CodeSandbox

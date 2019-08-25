@@ -1,0 +1,42 @@
+{
+  "name": "hamrahbanksignin",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.3.1",
+    "@material-ui/icons": "4.2.1",
+    "devextreme": "19.1.5",
+    "devextreme-react": "latest",
+    "jquery": "3.4.1",
+    "material-ui": "0.20.2",
+    "materialize-css": "latest",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-materialize": "latest",
+    "react-native-web": "0.11.7",
+    "react-router-dom": "latest",
+    "react-router-transition": "latest",
+    "react-scripts": "3.0.1",
+    "react-swipe-views": "0.0.12",
+    "react-swipeable-views": "0.13.3",
+    "react-transition-group": "latest",
+    "rn-sliding-up-panel": "2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
