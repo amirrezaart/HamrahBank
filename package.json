@@ -9,7 +9,7 @@
     "@material-ui/icons": "4.2.1",
     "devextreme": "19.1.5",
     "devextreme-react": "latest",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "material-ui": "0.20.2",
     "materialize-css": "latest",
     "react": "16.8.6",
